@@ -1,0 +1,14 @@
+4
+P OR S
+-P
+-Q
+Q OR R
+5
+R OR S
+R
+S
+P
+Q
+1
+{}
+YES
